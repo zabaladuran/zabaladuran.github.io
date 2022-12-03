@@ -1,0 +1,12 @@
+git 
+
+work space
+archivos sin guardar / stage(archivos en seguimiento)/commit
+
+git add style.css (agregar archivos al repo local)
+git log// muestra las historias delos commit con fecha //
+git checkout (rama ala que quiero ir - para antiguo version //}
+git checkout master( ultimo vercion del archivo /
+git log --oneline (codigo de vercion mas corto//
+
+ 
